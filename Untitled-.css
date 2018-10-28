@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-size: 14px;
+    
+    color:#333;
+}
+a
+{
+    color: #333;
+    text-decoration: none;
+
+}
+a:hover{
+    text-decoration: none;
+}
+ul,ol{
+    list-style: none;
+}
+input{
+    border: none;
+    outline: none;
+}
+.banner img{
+    padding-top: 40px ;
+    width: 100%;
+    
+}
+
+
+
+ 

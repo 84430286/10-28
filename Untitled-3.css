@@ -1,0 +1,30 @@
+.nav{
+   /* padding-top: 40px; */
+    width: 100%;
+    background: #fff;
+    
+}
+.nav ul{
+    width: 100%;
+    padding: 10px 0;
+}
+li{
+    width :25%;
+    float: left;
+
+}
+.non a{
+    display: block;
+}
+.shilia img{
+    width: 40px;
+    height: 40px;
+    display: block;
+    margin: 0 auto;
+}
+a .size{
+    text-align:  center;
+    color: #666666;
+    font-size: 12px;
+    padding: 6px 0;
+}
