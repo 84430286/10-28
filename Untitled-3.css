@@ -1,6 +1,8 @@
 .nav{
-   /* padding-top: 40px; */
+   /* margin-top: 120px; */
     width: 100%;
+    display:inline-block;
+    
     background: #fff;
     
 }
