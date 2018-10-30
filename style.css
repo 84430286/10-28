@@ -1,11 +1,21 @@
-
+body #images{
+    width: 100%;
+    width: auto;
+    height: auto;
+    padding-top: 40px ;
+}
 
 #images img{
     transition: opacity 1s linear;
     /* display: block; */
     position: absolute;
+    /* clear: both; */
     top: 0;
     left: 0;
+    /* padding-top: 40px ;
+    width: 100%;
+    width: auto;
+    height: auto; */
 }
 .displayImg{
    /* display: block; */
