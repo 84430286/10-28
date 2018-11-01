@@ -47,7 +47,7 @@ function changImg(){
      //再突出自己
     imagesA[currentNo].className="displayImg";
     //换个元素，为下一次计时器调用做准备
-    if(currentNo<4){currentNo++;}
+    if(currentNo<7){currentNo++;}
     else{
         currentNo=0;
     }
