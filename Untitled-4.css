@@ -1,6 +1,5 @@
 .product
 {
-    padding: 0 5px;
     position: absolute;
     top:330px;
     width: 100%;
@@ -10,13 +9,13 @@
     width: 100%;
     background: #fff;
     margin-top: 10px;
-    box-shadow: 0 0 1px #e0e0e0;
+    box-shadow: 0 0 1px #4d4a4a;
 }
 .product>.product_box>.product_box_tit
 {
     height: 32px;
     line-height: 32px;
-    border-bottom: 1px solid #e0e0e0;
+    border-bottom: 1px solid #706b6b;
 }
 .product>.product_box>.product_box_tit.no_border
 {
@@ -43,15 +42,16 @@
 /* 掌上秒杀 */
 .hm_sk .sk_icon
 {
-    background:url()no-repeat;
-    background-size: 16px 20px;
-    width: 16px;
+    background:url(img/钱.png)no-repeat;
+    background-size: 20px 20px;
+    width: 18px;
     height: 20px;
     float: left;
     margin-top: 6px;
 }
 .hm_sk .sk_name
 {
+    padding-left: 5px;
     color: #d8505c;
     font-size: 15px;
     float: left;
@@ -125,3 +125,34 @@ font-size: 12px;
     position: absolute;
     top: 45px;
 }
+.proct{
+    width: 100%;
+}
+.tup img{
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.tup {
+    display: block;
+    width: 100%;
+    border-right: 1px solid #e4cfcf;
+}
+.nr{
+    width: 33.333%;
+    float: left;
+    text-align: center;
+    
+}
+.size2
+{
+    padding-top: 20px;
+ color: #d8505c;
+ 
+}
+.clanr{
+    width: 100%;
+    font-size: 12px;
+}
+
